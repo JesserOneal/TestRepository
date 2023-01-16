@@ -1,0 +1,32 @@
+.header-banner{
+    background-image:url(Resources/pattern.webp);
+    text-align: center;
+    font-family:Helvetica, sans-serif;
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+  }
+h2{
+    background-color: aqua;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+
+.strong-pricing {
+    font-weight: bold;
+    font-family: Helvetica;
+    color: blue;
+}
+
+body{
+    background-image: url(resources/marble\ background.jfif);
+    
+}
